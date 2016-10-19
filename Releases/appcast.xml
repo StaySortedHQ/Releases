@@ -7,6 +7,16 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.2.1</title>
+            <sparkle:releaseNotesLink>
+                http://beta.staysorted.com/Releases/0.2.1/22.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Mon, 19 Oct 2016 21:13:00 +0800</pubDate>
+            <enclosure url="https://github.com/StaySortedHQ/Releases/releases/download/0.2.1_22/SortedMac_v0.2.1_22.zip" sparkle:version="22" sparkle:shortVersionString="0.2.1" length="8299336" type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 0.2.0</title>
             <sparkle:releaseNotesLink>
                 http://beta.staysorted.com/Releases/0.2.0/20.html
